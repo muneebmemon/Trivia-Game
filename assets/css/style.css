@@ -1,0 +1,97 @@
+body{
+	background-image: url("../images/food.png");
+	font-family: "Luckiest Guy";
+}
+
+#mainDiv{
+	background-image: url("../images/halftone-yellow.png");
+}
+
+.headerStyle{
+	background-color: #ff8800;
+	background-image: url("../images/halftone-yellow.png");
+	margin-top: 10px;
+	border: 2px solid #000000;
+}
+
+.startButtonStyle{
+	background-color: #ff8800;
+	height: 480px;
+	padding-top: 150px;
+	border: 2px solid #000000;
+}
+
+.questionStyle{
+	background-color: #ff8800;
+	height: 480px;
+	padding-top: 20px;
+	border: 2px solid #000000;
+	font-family: inherit;
+	text-align: center;
+}
+
+.questionStyle h3{
+	font-size: 35px;
+	color: #000000;
+	margin-bottom: 25px;
+}
+
+.questionStyle h4{
+	font-size: 28px;
+}
+
+.questionStyle h5{
+	font-size: 30px;
+	color: midnightblue;
+	width: 50%;
+	margin: 20px auto;
+}
+
+.questionStyle h5:hover{
+	cursor: pointer;
+	color: #ff8800;
+	background-color: #000000;
+}
+
+.correctAnswerStyle{
+	height: 480px;
+	padding-top: 20px;
+	border: 2px solid #000000;
+	font-family: inherit;
+	text-align: center;
+}
+
+.correctAnswerStyle h2{
+	font-size: 40px;
+	color: midnightblue;
+	margin-bottom: 25px;
+}
+
+.headerStyle h1{
+	font-family: inherit;
+	text-align: center;
+	font-size: 70px;
+	letter-spacing: 2px;
+	word-spacing: 5px;
+	color: #d3f411;
+	background-color: #000000;
+	border: 2px solid #ffffff;
+	height: 120px;
+	line-height: 120px;
+	margin: 5px auto;
+}
+
+.startButtonStyle h3 {
+	font-family: inherit;
+	text-align: center;
+	font-size: 35px;
+	letter-spacing: 3px;
+	color: #d3f411;
+	border: 2px solid #ffffff;
+	background-color: #000000;
+	width: 50%;
+	height: 50px;
+	margin: 0px auto;
+	line-height: 50px;
+	cursor: pointer;
+}
